@@ -1,1 +1,607 @@
-console.log("Blue Jay Coffee site loaded");
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Rich Tapestry of Life</title>
+
+<meta name="description"
+content="A place where landscapes, people and memories become part of your own story.">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- HERO -->
+
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
+
+<header class="hero">
+
+    <video autoplay muted loop playsinline class="hero-video">
+        <source src="assets/videos/VIDEOHEROTAPISTRY.mp4" type="video/mp4">
+    </video>
+
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+
+        <span class="location">
+            Drouseia • Akamas Peninsula • Cyprus
+        </span>
+
+        <h1>
+            Rich Tapestry<br>
+            of Life
+        </h1>
+
+        <p>
+            Every meaningful life is woven quietly...<br>
+            through places, people,<br>
+            and the moments that ask for nothing,<br>
+            yet remain with us forever.
+        </p>
+
+        <a href="#editorial" class="button">
+            Begin Reading
+        </a>
+
+    </div>
+
+</header>
+
+<!-- ========================================================= -->
+<!-- PROLOGUE -->
+<!-- ========================================================= -->
+
+<section id="editorial" class="intro">
+
+    <div class="container">
+
+        <span>THE PROLOGUE</span>
+
+        <h2>
+            The richest lives are never measured by what we own.<br>
+            They are measured by what we remember.
+        </h2>
+
+        <p>
+            There is a quiet misconception that life is shaped by extraordinary
+            events. The journeys we plan. The milestones we celebrate. The places
+            we carefully choose to visit.
+        </p>
+
+        <p>
+            Yet memory is strangely selective.
+        </p>
+
+        <p>
+            Years later, it is rarely the grand occasion that returns first.
+        </p>
+
+        <p>
+            Instead, it remembers morning light finding its way across an old
+            wooden table. Fresh bread still warm from the oven. Children laughing
+            somewhere beyond an open window. A conversation that gently outlived
+            the sunset. Silence that never needed filling.
+        </p>
+
+        <p>
+            None of these moments arrive announcing their importance.
+        </p>
+
+        <p>
+            They simply happen.
+        </p>
+
+        <p>
+            Then, almost unnoticed, they begin weaving themselves into who we
+            become.
+        </p>
+
+        <p>
+            Thread after thread.<br>
+            Season after season.
+        </p>
+
+        <p>
+            Until one day, we realise that our lives have quietly become a rich
+            tapestry.
+        </p>
+
+        <p>
+            This story is not about a house.
+        </p>
+
+        <p>
+            Nor is it about the person who imagined it.
+        </p>
+
+        <p>
+            It is about the invisible threads that connect place, time, memory,
+            friendship, family and belonging.
+        </p>
+
+        <p>
+            Everything that follows is simply another page in that story.
+        </p>
+
+    </div>
+
+</section>
+
+<!-- INTRO -->
+
+<section class="intro">
+
+    <div class="container">
+
+        <span>EDITORIAL</span>
+
+        <h2>
+            Every destination tells a story.
+            Very few become part of yours.
+        </h2>
+
+        <p>
+
+            Tapestry House was never imagined as another luxury villa.
+
+            It was imagined as a place where mornings last longer,
+            conversations become traditions,
+            and every guest leaves carrying something invisible.
+
+        </p>
+
+    </div>
+
+</section>
+
+<!-- CHAPTER 1 -->
+
+<section id="chapter-one" class="image-section">
+
+    <img src="assets/images/RTOL2SUNRISE.jpeg" alt="Sunrise">
+
+    <div class="image-text">
+
+        <span>CHAPTER I</span>
+
+        <h2>
+            Before<br>
+            The World<br>
+            Wakes
+        </h2>
+
+        <p>
+
+            The first light arrives without announcement.
+            Mountains emerge from darkness,
+            mist lifts from the valleys,
+            and the Mediterranean begins another quiet morning.
+
+        </p>
+
+    </div>
+
+</section>
+
+<!-- TEXT -->
+
+<section class="editorial">
+
+<div class="container">
+
+<span>THE LAND</span>
+
+<h2>
+Between Mountains<br>
+And Sea
+</h2>
+
+<p>
+
+Perched above the Akamas Peninsula,
+Drouseia occupies one of Cyprus' most extraordinary landscapes.
+
+High enough to embrace cool mountain air,
+close enough to hear the sea.
+
+Luxury begins with location.
+
+Everything else follows naturally.
+
+</p>
+
+</div>
+
+</section>
+
+<!-- IMAGE -->
+
+<section class="fullscreen-image">
+
+<img src="assets/images/RTOL3LANDSCAPE.jpeg">
+
+</section>
+
+<!-- QUOTE -->
+
+<section class="quote">
+
+<h2>
+
+Luxury is not having more.
+
+<br><br>
+
+It is noticing more.
+
+</h2>
+
+</section>
+
+<!-- IMAGE -->
+
+<section class="image-section reverse">
+
+<img src="assets/images/RTOLSUNRISEMOUNTAIN.jpeg">
+
+<div class="image-text">
+
+<span>LIGHT</span>
+
+<h2>
+
+Every sunrise
+
+is different.
+
+</h2>
+
+<p>
+
+Clouds shift.
+
+Colours evolve.
+
+No morning is ever repeated.
+
+Nature quietly reminds us that
+beauty was never meant to be rushed.
+
+</p>
+
+</div>
+
+</section>
+
+<!-- IMAGE -->
+
+<section class="fullscreen-image">
+
+<img src="assets/images/RTOL1SUNSET.jpeg">
+
+<div class="overlay-text">
+
+<h2>
+
+Evening
+
+Becomes
+
+The Event
+
+</h2>
+
+</div>
+
+</section>
+
+<!-- HOUSE -->
+
+<section class="editorial large">
+
+<div class="container">
+
+<span>TAPESTRY HOUSE</span>
+
+<h2>
+
+A House Built
+
+For People
+
+Not Guests
+
+</h2>
+
+<p>
+
+The finest memories rarely happen during grand occasions.
+
+They appear over breakfast that becomes lunch.
+
+Conversations that outlast sunset.
+
+Shared bottles.
+
+Open windows.
+
+Slow afternoons.
+
+This is what Tapestry House was designed to protect.
+
+</p>
+
+</div>
+
+</section>
+
+<!-- HOUSE IMAGE -->
+
+<section class="image-section">
+
+<img src="assets/images/RTOLTHEPENTHOUSE.jpeg">
+
+<div class="image-text">
+
+<span>HOME</span>
+
+<h2>
+
+Architecture
+
+That Never
+
+Competes
+
+With Nature
+
+</h2>
+
+</div>
+
+</section>
+
+<!-- POOL -->
+
+<section class="fullscreen-image">
+
+<img src="assets/images/RTOLSWIMPOOL2.jpeg">
+
+<div class="overlay-text">
+
+<h2>
+
+Morning.
+
+Coffee.
+
+Silence.
+
+</h2>
+
+</div>
+
+</section>
+
+<!-- LIFESTYLE -->
+
+<section class="image-section reverse">
+
+<img src="assets/images/RTOLSWIMINPOOL.jpeg">
+
+<div class="image-text">
+
+<span>THE RHYTHM</span>
+
+<h2>
+
+The Luxury
+
+Of
+
+Having Time
+
+</h2>
+
+<p>
+
+Nothing asks for your attention.
+
+The day unfolds naturally.
+
+Swim.
+
+Read.
+
+Talk.
+
+Rest.
+
+Repeat.
+
+</p>
+
+</div>
+
+</section>
+
+<!-- GARDEN -->
+
+<section class="fullscreen-image">
+
+<img src="assets/images/RTOLGARGEN.jpeg">
+
+</section>
+
+    <!-- ========================= -->
+
+<!-- A LEGACY IN THE MAKING -->
+
+<!-- ========================= -->
+
+<section class="founder-section">
+
+```
+<div class="founder-container">
+
+    <div class="founder-image">
+        <img src="assets/images/MARK.jpeg" alt="Mark Hallum founder of Tapestry Of Life">
+    </div>
+
+    <div class="founder-text">
+
+        <span class="section-label">
+            a legacy in the making
+        </span>
+
+        <h2>
+            More Than A House.<br>
+            A Place That Outlives Us.
+        </h2>
+
+        <p class="lead">
+            Every meaningful legacy begins with a simple idea:
+            create a place where people feel they belong.
+        </p>
+
+        <p>
+            Tapestry House was inspired by childhood summers spent around a family table in Corsica, where generations gathered without hurry, sharing meals, laughter and stories late into the evening. Those memories became the blueprint for a different kind of home—one built not around possessions, but around people.
+        </p>
+
+        <p>
+            After a lifetime of living and working across continents, Mark discovered that the places we remember most are never defined by architecture alone. They are remembered for the warmth of their welcome, the meals shared with family and friends, the smell of fresh bread, local olive oil poured generously over lunch, a bottle of wine opened without occasion, and conversations that continue long after the sun has disappeared beyond the Akamas.
+        </p>
+
+        <p>
+            Tapestry House is his way of giving those moments a permanent home. It has been created as a place to gather today, and to continue gathering for generations to come. A place where children become parents, friends become family, traditions quietly grow, and every visitor leaves another thread woven into the rich tapestry of life.
+        </p>
+
+        <blockquote class="founder-quote">
+            "My hope is that long after I am gone,
+            this house will still be filled with laughter,
+            shared meals, friendship and the simple joy of being together."
+        </blockquote>
+
+        <div class="founder-signature">
+
+            <strong>Mark Hallum</strong>
+<p class="founder-title">
+            <span>Founder • Curator • Custodian from life Tapestry</span>
+
+
+</div>
+```
+
+</section>
+
+<!-- SEASONS -->
+
+<section class="editorial">
+
+<div class="container">
+
+<span>THE SEASONS</span>
+
+<h2>
+
+A Different
+
+Story
+
+Every Visit
+
+</h2>
+
+<p>
+
+Spring colours the hills.
+
+Summer belongs to the sea.
+
+Autumn softens the light.
+
+Winter returns silence to the village.
+
+No season replaces another.
+
+Each simply tells a different chapter.
+
+</p>
+
+</div>
+
+</section>
+
+<!-- FINAL IMAGE -->
+
+<section class="fullscreen-image ending">
+
+<img src="assets/images/RTOLOCEANSUNSET.jpeg">
+
+<div class="overlay-text">
+
+<h2>
+
+Every Journey
+
+Leaves
+
+Something Behind
+
+</h2>
+
+</div>
+
+</section>
+
+<!-- END -->
+
+<footer class="footer">
+
+<div class="container">
+
+<span>WELCOME</span>
+
+<h2>
+
+Rich Tapestry
+
+of Life
+
+</h2>
+
+<p>
+
+Some journeys end when we return home.
+
+The meaningful ones never really do.
+
+Tapestry House isn't simply a destination.
+
+It becomes part of the stories you continue telling long after you've left.
+
+</p>
+
+<a href="#" class="button">
+
+Request Your Stay
+
+</a>
+
+</div>
+
+</footer>
+
+</body>
+
+</html>
